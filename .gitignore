@@ -11,3 +11,5 @@ venv/
 temp_voice.mp3
 *.mp3
 .DS_Store
+
+*.py linguist-language=Python
