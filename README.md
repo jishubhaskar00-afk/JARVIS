@@ -1,5 +1,7 @@
 # 🤖 Jarvis – AI Voice Assistant
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+
 Jarvis is a **Python-based AI voice assistant** designed to interact with users through voice commands. It can recognize speech, respond using natural voice, answer questions with AI, open popular websites, fetch news headlines, and play music through YouTube.
 
 ## ✨ Features
@@ -67,5 +69,3 @@ Jarvis/
 A Computer Science & Technology student passionate about **Python, Software Development, Web Development, and AI/ML**.
 
 ⭐ If you like this project, consider giving the repository a star!
-
-
