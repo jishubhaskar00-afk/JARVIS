@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Misc
+temp_voice.mp3
+*.mp3
+.DS_Store

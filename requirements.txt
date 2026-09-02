@@ -1,0 +1,6 @@
+SpeechRecognition
+pyttsx3
+openai
+python-dotenv
+gTTS
+pygame
